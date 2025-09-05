@@ -1,0 +1,6 @@
+n:layernumber,>=3
+3
+(cer,sig,xmiu,interloc): permittivity, conductivity, permiability and location for each layer
+1.0,0.000,1.0,-100.0
+1.0,0.000,1.0,100.0
+1.0,0.000,1.0
