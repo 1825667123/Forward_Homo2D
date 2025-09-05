@@ -1,8 +1,4 @@
 maximum iterations for BCGS
-500
+1000
 maximum residual error for BCGS
-1e-5
-Chebyshev interpolation points per wavelength
-4
-The maximum interpolation points in the whole computation domain
-1500
+5e-5
